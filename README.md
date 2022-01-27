@@ -1,1 +1,1 @@
-# javascript_pratice
+# javascript_pratice angular_project
